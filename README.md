@@ -1,4 +1,4 @@
-<h2 align=center>PoP Mining Guide by ZunXBT</h2>
+<h2 align=center>PoP Mining Guide by MSB</h2>
 
 ## VPS Configuration
 - You can start PoP mining either using VPS or using Ubuntu on your local system, I will go with a normal VPS
